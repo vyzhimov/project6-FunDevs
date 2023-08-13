@@ -1,4 +1,4 @@
-# <div align=center>Welcome to "Your Pet" - the home for adorable little paws! 🐾</div>
+# <div align=center>Welcome to "Your Pet" - a resource for finding and selling animals 🐾</div>
 
 [![Your Pet](assets/heropage.png)](https://vyzhimov.github.io/project6-FunDevs)
 
