@@ -14,8 +14,6 @@ friend for your family.
 1. Register or log in to your account.
    - Through the website - You can create an account on our website by filling
      in the required fields in the registration form.
-   - Through Google account - You can use your Google account for quick
-     registration.
 2. Browse the list of pets available for sale or adoption.
 3. Add your favorite pets to the list for easy access to their information.
 4. Discover interesting news about animals.
