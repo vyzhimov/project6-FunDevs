@@ -1,6 +1,6 @@
 # <div align=center>Welcome to "Your Pet" - the home for adorable little paws! 🐾</div>
 
-[![Your Pet](assets/heropage.png)]
+[![Your Pet](assets/heropage.png)](https://vyzhimov.github.io/project6-FunDevs)
 
 ## <div align=center>About project "Your Pet":</div>
 
