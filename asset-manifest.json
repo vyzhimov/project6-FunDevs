@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project6-FunDevs/static/css/main.7acaea2f.css",
+    "main.js": "/project6-FunDevs/static/js/main.07d3183d.js",
+    "index.html": "/project6-FunDevs/index.html",
+    "main.7acaea2f.css.map": "/project6-FunDevs/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/project6-FunDevs/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
